@@ -82,7 +82,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("Untitled (1080 x 1080 px) (1).png");
+  background-image: url"Untitled (1080 x 1080 px) (1).png";
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
